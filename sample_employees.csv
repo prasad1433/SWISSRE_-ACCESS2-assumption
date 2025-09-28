@@ -1,0 +1,19 @@
+id,name,salary,managerId
+1,John Smith (CEO),250000,
+2,Sarah Johnson (VP Sales),180000,1
+3,Mike Wilson (VP Engineering),175000,1
+4,Lisa Brown (VP Marketing),170000,1
+5,David Lee (Sales Manager),130000,2
+6,Jennifer Davis (Senior Engineer),120000,3
+7,Robert Garcia (Marketing Manager),125000,4
+8,Emily Rodriguez (Sales Rep),85000,5
+9,Thomas Anderson (Sales Rep),88000,5
+10,Maria Gonzalez (Software Engineer),95000,6
+11,James Taylor (Software Engineer),92000,6
+12,Ashley White (Marketing Specialist),75000,7
+13,Christopher Moore (Junior Developer),65000,10
+14,Jessica Martinez (Intern),45000,13
+15,Daniel Thompson (Team Lead),110000,6
+16,Amanda Clark (Senior Sales Rep),95000,5
+17,Kevin Lewis (QA Engineer),80000,15
+18,Michelle Walker (QA Intern),40000,17
