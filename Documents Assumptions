@@ -1,0 +1,41 @@
+The application will read src/main/resources/sample_employees.csv by default.
+View Results
+
+The analysis results will be printed to the console.
+Sensible Assumptions
+CSV Format: The file is comma-separated with columns: Id,firstName,lastName,salary,managerId.
+CEO Identification: The CEO is the only employee with an empty managerId.
+Salary Rules:
+Managers must earn at least 20% more than the average salary of their direct subordinates.
+Managers must not earn more than 50% above the average salary of their direct subordinates.
+Reporting Line:
+The reporting line is the number of managers between an employee and the CEO.
+Employees with more than 4 managers between them and the CEO are flagged.
+Data Integrity:
+All managerId values refer to valid employee IDs in the file.
+Salaries are positive numbers.
+File Location:
+The default file path is src/main/resources/sample_employees.csv. Update the code if your file is elsewhere.
+No GUI is provided; all output is via the console.
+Only Java SE and JUnit are used. - The application will read src/main/resources/sample_employees.csv by default.
+
+View Results
+The analysis results will be printed to the console.
+Sensible Assumptions
+CSV Format: The file is comma-separated with columns: Id,firstName,lastName,salary,managerId.
+CEO Identification: The CEO is the only employee with an empty managerId.
+Salary Rules:
+Managers must earn at least 20% more than the average salary of their direct subordinates.
+Managers must not earn more than 50% above the average salary of their direct subordinates.
+Reporting Line:
+The reporting line is the number of managers between an employee and the CEO.
+Employees with more than 4 managers between them and the CEO are flagged.
+Data Integrity:
+All managerId values refer to valid employee IDs in the file.
+Salaries are positive numbers.
+File Location:
+The default file path is src/main/resources/sample_employees.csv. Update the code if your file is elsewhere.
+No GUI is provided; all output is via the console.
+Only Java SE and JUnit are used.
+
+GPT-4.1 • 1x
